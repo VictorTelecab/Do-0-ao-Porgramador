@@ -1,6 +1,3 @@
-
-
-console.log('mostrar o document', document);
 const video = document.getElementById("video");
 const linkDoVideo = video.src;
 const botaoTrailer = (document.querySelector(".botao-trailer"));
