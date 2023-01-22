@@ -79,7 +79,7 @@ body {
     height: 100vh;
     overflow: hidden;
     display: flex;
-    /* justify-content: center; */
+    /*justify-content: center;*/
 }
 
 
@@ -108,9 +108,9 @@ body {
     background-color: rgba(52, 52, 50, 0.749);
     opacity: 0;
     visibility: hidden;
-}
+}   
 
-.conteudo-modal {
+.conteudo-modal{
     display: flex;
     justify-content: center;
     align-items: center;
